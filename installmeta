@@ -1,13 +1,13 @@
 #bin/bash
 clear
 echo
-echo "        Setting up first time metasploit installation.....!"
+echo "        Setting up metasploit installation.....!"
 echo
 cd $HOME
 pkg update -y
 pkg upgrade -y
 pkg install wget curl openssh git -y
 pkg install ncurses-utils
-source <(curl -fsSL https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh)
+source <(curl -fsSL https://github.com/EDULIFETECHHACKS/metasploit/main/androidmetasploit.sh)
 metasploit
 
