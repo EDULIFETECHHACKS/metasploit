@@ -23,4 +23,12 @@ ls
  ```
 ## And you will be done with installation
 
-## check out video on youtube.http://youtube.com/post/UgkxXBKJK3k24cXOIPwt_E9B5c9VCnbMzdqP?feature=shared
+## starting metasploit 
+```
+msfconsole
+```
+
+## check out video on youtube on metasploit installation: http://youtube.com/post/UgkxXBKJK3k24cXOIPwt_E9B5c9VCnbMzdqP?feature=shared
+
+
+## youtube channel : http://youtube.com/@edulifetechhacks
