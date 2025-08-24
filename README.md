@@ -5,7 +5,18 @@ learn how we can set up Metasploit 6 on our android phones using termux without 
 
 ```
 git clone https://github.com/EDULIFETECHHACKS/metasploit.git
+
 ```
+## move in to direcrory
+
+```
+cd metasploit
+```
+
+```
+ls
+```
+
 ## Run this command
  ```
  bash installmeta
