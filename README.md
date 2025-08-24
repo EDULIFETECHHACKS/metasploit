@@ -23,4 +23,4 @@ ls
  ```
 ## And you will be done with installation
 
-## check out video on youtube.
+## check out video on youtube.http://youtube.com/post/UgkxXBKJK3k24cXOIPwt_E9B5c9VCnbMzdqP?feature=shared
