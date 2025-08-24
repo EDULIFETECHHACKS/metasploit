@@ -8,6 +8,6 @@ pkg update -y
 pkg upgrade -y
 pkg install wget curl openssh git -y
 pkg install ncurses-utils
-source <(curl -fsSL https://github.com/EDULIFETECHHACKS/metasploit/main/androidmetasploit.sh)
+source <(curl -fsSL https://github.com/EDULIFETECHHACKS/metasploit/blob/main/main/androidmetasploit.sh)
 metasploit
 
