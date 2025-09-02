@@ -40,4 +40,8 @@ bash update.sh
 https://youtu.be/UfTPwsIxyV0
 ```
 
-## youtube channel :``` http://youtube.com/@edulifetechhacks```
+## youtube channel :
+```
+ http://youtube.com/@edulifetechhacks
+ 
+ ```
