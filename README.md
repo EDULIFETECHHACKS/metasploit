@@ -35,7 +35,9 @@ msfconsole
 ```
 bash update.sh
 ```
-## check out video on youtube on metasploit installation: http://youtube.com/post/UgkxXBKJK3k24cXOIPwt_E9B5c9VCnbMzdqP?feature=shared
+## check out video on youtube on metasploit installation:  
+```
+https://youtu.be/UfTPwsIxyV0
+```
 
-
-## youtube channel : http://youtube.com/@edulifetechhacks
+## youtube channel :``` http://youtube.com/@edulifetechhacks```
